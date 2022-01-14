@@ -91,11 +91,6 @@ header {
 .tel:hover {
   color: var(--color-text-hover-focus);
 }
-.line {
-  width: 1600px;
-  height: 0px;
-  border: 1px solid #ececec;
-}
 
 /*Main Head*/
 .main-section {
